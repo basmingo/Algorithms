@@ -1,3 +1,5 @@
+package com.basmingo;
+
 import java.util.Arrays;
 
 public class MinimumMoves {
