@@ -1,0 +1,38 @@
+
+s	java:S1350"YReduce the total number of break and continue statements in this loop to use at most one.(Ã•¿»úÿÿÿÿ
+a	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Èä¡h
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÃÆßøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£ËĞÂıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ•‘Àúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïÂë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ØÃıüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÙõî
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´Š¨“ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°–ôäøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Á‰¤üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á¤ùŸ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Óú“İ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²è½ºøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§ç¯´üÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(şı¬
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(•õÉ¹şÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÅÔÁ¶
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¡ĞÌúÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(–›å°ÿÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Şú¨¶
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ù¤¹Éıÿÿÿÿ
+
+java:S21781"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(«òĞÂÿÿÿÿÿ
+/
+java:S2178="Correct this "&" to "&&".(ûêÒ±
+
+java:S2178A"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(‚Íå¨ÿÿÿÿÿ
+4
+java:S2178P"Correct this "&" to "&&".(Çó‰óùÿÿÿÿ
+I
+java:S1128"4Remove this unused import 'java.io.CharArrayReader'.(ñó Z
+M
+java:S1128"2Remove this unused import 'java.net.Inet4Address'.(ê…ÉÃúÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
