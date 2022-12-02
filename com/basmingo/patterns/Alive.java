@@ -1,5 +1,5 @@
 package com.basmingo.patterns;
 
-public interface Animal {
+public interface Alive {
     public void getSound();
 }

@@ -1,8 +1,8 @@
 package com.basmingo.patterns;
 
-public class FactoryMethod {
+public class Main {
     public static void main(String[] args) {
-        Animal A = AnimalFactory.getAnimal();
+        Alive A = AnimalFactory.getAnimal();
 
         A.getSound();
     }

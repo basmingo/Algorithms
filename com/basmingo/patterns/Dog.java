@@ -1,8 +1,6 @@
 package com.basmingo.patterns;
 
-import com.basmingo.patterns.Animal;
-
-public class Dog implements Animal {
+public class Dog implements Alive {
     @Override
     public void getSound() {
         System.out.println("WOF!!!");
